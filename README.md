@@ -20,5 +20,5 @@ Matrix Linealization<br />
 Load Players<br />
 ![alt text](https://github.com/flores080/Chess-3D/blob/master/03.png)<br /><br />
 
-AVL Graph<br />
-![alt text](https://github.com/flores080/Chess-3D/blob/master/03.png)
+ABB Graph<br />
+![alt text](https://github.com/flores080/Chess-3D/blob/master/04.png)
