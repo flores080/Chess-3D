@@ -10,3 +10,9 @@ Implementation of: </br>
 
 IDE - Qt Creator  -> https://www.qt.io/download/<br />
 Graphviz          -> http://graphviz.org/Download..php<br /><br />
+
+Game<br />
+![alt text](https://github.com/flores080/Chess-3D/blob/master/01.png)<br /><br />
+
+Matrix Linealization<br />
+![alt text](https://github.com/flores080/Chess-3D/blob/master/02.png)
