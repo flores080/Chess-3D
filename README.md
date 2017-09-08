@@ -15,4 +15,10 @@ Game<br />
 ![alt text](https://github.com/flores080/Chess-3D/blob/master/01.png)<br /><br />
 
 Matrix Linealization<br />
-![alt text](https://github.com/flores080/Chess-3D/blob/master/02.png)
+![alt text](https://github.com/flores080/Chess-3D/blob/master/02.png)<br /><br />
+
+Load Players<br />
+![alt text](https://github.com/flores080/Chess-3D/blob/master/03.png)<br /><br />
+
+AVL Graph<br />
+![alt text](https://github.com/flores080/Chess-3D/blob/master/03.png)
