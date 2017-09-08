@@ -7,3 +7,6 @@ Implementation of: </br>
   <li>Stack</li>
   <li>Queue</li>
 </ul> 
+
+IDE - Qt Creator  -> https://www.qt.io/download/<br />
+Graphviz          -> http://graphviz.org/Download..php<br /><br />
