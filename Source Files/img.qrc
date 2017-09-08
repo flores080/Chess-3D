@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/pieza">
+        <file>Piezas/T_N.svg</file>
+        <file>Piezas/T_B.svg</file>
+        <file>Piezas/R_N.svg</file>
+        <file>Piezas/R_B.svg</file>
+        <file>Piezas/P_N.svg</file>
+        <file>Piezas/P_B.svg</file>
+        <file>Piezas/D_N.svg</file>
+        <file>Piezas/D_B.svg</file>
+        <file>Piezas/C_N.svg</file>
+        <file>Piezas/C_B.svg</file>
+        <file>Piezas/A_N.svg</file>
+        <file>Piezas/A_B.svg</file>
+    </qresource>
+</RCC>
